@@ -1,4 +1,5 @@
-def arm():
+
+def arms():
   sum = 0
   t = a
   while t > 0:
@@ -12,3 +13,7 @@ def arm():
 a=int(input()) 
 if(a<=100000):
   arm()  
+
+
+      
+  
