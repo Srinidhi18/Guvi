@@ -1,4 +1,4 @@
 import re
-x= input()
-c= len(x)-len(re.findall('[\w]',x))
-print(c)
+a= input()
+d= len(a)-len(re.findall('[\w]',a))
+print(d)
