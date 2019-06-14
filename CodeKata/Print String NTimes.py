@@ -1,3 +1,3 @@
 x,k=map(str,input().split())
-for i in range (len(x)+1):
+for i in range (0,int(k)):
   print(x)
