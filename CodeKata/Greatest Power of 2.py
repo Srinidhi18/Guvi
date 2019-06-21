@@ -1,6 +1,4 @@
-x=set(input())
-s={'0','1'}
-if s==x:
-  print('yes')
-else:
-  print('no')
+a=int(input())
+if(a<=1000):
+  c=a*2
+  print(c)
