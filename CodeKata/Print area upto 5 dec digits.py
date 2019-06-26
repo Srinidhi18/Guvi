@@ -1,3 +1,3 @@
-l,b=map(float,input().split())
-a=l*b
+x,y=map(float,input().split())
+a=x*y
 print("%.5f" %a)
