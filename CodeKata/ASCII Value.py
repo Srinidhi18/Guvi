@@ -1,2 +1,3 @@
-x=input()
-print(ord(x))
+c=input()
+a=ord(c)
+print(a)
