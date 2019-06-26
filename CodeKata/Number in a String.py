@@ -1,4 +1,6 @@
 x=input()
+j=[]
 for i in x:
   if i.isnumeric():
-    print(i,end='')
+    j.append(i)
+print("".join(j))
