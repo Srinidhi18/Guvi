@@ -1,3 +1,3 @@
-a=input()
-b=a.swapcase()
-print(b)
+get=input()
+out=get.swapcase()
+print(out)
