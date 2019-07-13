@@ -1,3 +1,3 @@
-a=input()
-b=a.replace("  "," ")
+get=input()
+b=get.replace("  "," ")
 print(b)
