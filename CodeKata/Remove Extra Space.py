@@ -1,3 +1,3 @@
-a=input()
-b=" ".join(a.split())
-print(b)
+get=input()
+out=" ".join(get.split())
+print(out)
