@@ -9,7 +9,7 @@ elif(y[1]=='03'):
 elif(y[1]=='04'):
   print('April')
 elif(y[1]=='05'):
-  print('may')
+  print('May')
 elif(y[1]=='06'):
   print('June')
 elif(y[1]=='07'):
