@@ -1,0 +1,26 @@
+x=input()
+y=x.split('-')
+if(y[1]=='01'):
+  print('January')
+elif(y[1]=='02'):
+  print('February')
+elif(y[1]=='03'):
+  print('March')
+elif(y[1]=='04'):
+  print('April')
+elif(y[1]=='05'):
+  print('may')
+elif(y[1]=='06'):
+  print('June')
+elif(y[1]=='07'):
+  print('July')
+elif(y[1]=='08'):
+  print('August')
+elif(y[1]=='09'):
+  print('September')
+elif(y[1]=='10'):
+  print('October')
+elif(y[1]=='11'):
+  print('November')
+else:
+  print('December')
