@@ -1,7 +1,7 @@
 a=int(input())
 b=input()
 c=input()
-if(c[::-1]==b):
+if(b[::-1]==c):
   print('yes')
 else:
   print('no')
